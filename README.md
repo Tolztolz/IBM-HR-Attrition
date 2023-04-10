@@ -10,7 +10,15 @@ This is a collection of interactive dashboard that provides visualizations and i
 
 ## Dashboards
 
-1. Employee Demographics: This dashboard provides visualizations on various employee demographic factors such as age, gender, education level ,department, etc. It helps in understanding the composition of the workforce and identifying any patterns or trends related to attrition based on demographic factors.
+1. Employee Demographics:
+
+The "Employee Demographics" dashboard provides a comprehensive overview of the demographic characteristics of the organization's workforce. It includes visualizations that offer insights into various demographic factors such as age, gender, education level, job level, and more. These visualizations help in understanding the composition of the employee population and identifying any patterns or trends related to attrition based on demographic factors.
+
+The dashboard includes a variety of visualizations, such as bar charts and pie charts, that provide a detailed breakdown of the organization's employee demographics. It showcases key demographic metrics, such as age distribution, gender distribution, education level distribution, and job level distribution, in an easy-to-understand format.
+
+The "Employee Demographics" dashboard is designed to help HR and management teams gain a better understanding of the workforce composition and identify any potential patterns or trends related to attrition based on demographic factors. It can provide valuable insights for workforce planning, diversity and inclusion initiatives, and talent retention strategies.
+
+Whether you're interested in understanding the age distribution of employees who leave the organization, the gender breakdown of attrition, or the education level of employees who are more likely to stay or leave, the "Employee Demographics" dashboard provides a visual and interactive way to analyze and interpret the demographic characteristics of your organization's workforce.
 
 2. Demographics Attrition:
 
