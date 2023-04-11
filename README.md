@@ -74,5 +74,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 
-If you have any questions or suggestions about the dashboard, please feel free to contact me at[omitolaabdulbasit@gmail.com](mailto:omitolaabdulbasit@gmail.com). I would be happy to hear from you and help in any way possible!
+If you have any questions or suggestions about the dashboard, please feel free to contact me at [omitolaabdulbasit@gmail.com](mailto:omitolaabdulbasit@gmail.com). I would be happy to hear from you and help in any way possible!
 
